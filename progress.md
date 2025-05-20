@@ -34,3 +34,16 @@
 - Time Complexity: O(n), Space Complexity: O(n)
 
 ---
+
+### 📅 Day 4 - May 20, 2025
+
+✅ Problem: Merge Two Sorted Lists
+
+🗒️ Notes:
+
+- Practiced working with linked list nodes and merging sorted structures.
+- Learned how to iterate through multiple lists simultaneously and build a new one.
+- Reinforced concepts of pointer movement and recursive logic.
+- Time Complexity: O(n + m), Space Complexity: O(1) for iterative, O(n + m) for recursive
+
+---
