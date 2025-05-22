@@ -47,3 +47,14 @@
 - Time Complexity: O(n + m), Space Complexity: O(1) for iterative, O(n + m) for recursive
 
 ---
+
+### 📅 Day 5 - May 22, 2025
+
+✅ Problem: Best Time to Buy and Sell Stock
+
+🗒️ Notes:
+
+- Practiced identifying the best time to buy/sell using minimum price tracking.
+- Applied the sliding window / two-pointer approach to maximize profit.
+- Learned to track min price so far and update max profit at each step.
+- Time Complexity: O(n), Space Complexity: O(1)
