@@ -58,3 +58,16 @@
 - Applied the sliding window / two-pointer approach to maximize profit.
 - Learned to track min price so far and update max profit at each step.
 - Time Complexity: O(n), Space Complexity: O(1)
+
+---
+
+### 📅 Day 6 - June 19, 2025
+
+✅ Problem: Remove Duplicates from Sorted Array
+
+🗒️ Notes:
+
+- Practiced modifying arrays in-place using the two-pointer technique.
+- Learned how to overwrite duplicates by tracking unique elements with one pointer while scanning with another.
+- Ensured no extra space was used as per constraints.
+- Time Complexity: O(n), Space Complexity: O(1)
