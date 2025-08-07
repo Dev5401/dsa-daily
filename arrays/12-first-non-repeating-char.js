@@ -3,11 +3,7 @@ function firstNonRepeatingChar(str) {
   const obj = {};
 
   for (let element of arr) {
-    if (element in obj) {
-      obj[element] += 1;
-    } else {
-      obj[element] = 1;
-    }
+    obj[element] = (obj[element] || 0) + 1;
   }
 
   for (let key in obj) {

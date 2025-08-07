@@ -5,7 +5,6 @@ function identicalMatrices(mat1, mat2) {
   for (let i = 0; i < mat1.length; i++) {
     for (let j = 0; j < mat1[0].length; j++) {
       if (mat1[i][j] !== mat2[i][j]) return false;
-      j++;
     }
   }
 
@@ -15,7 +14,7 @@ function identicalMatrices(mat1, mat2) {
 console.log(
   identicalMatrices(
     [
-      [1, 1, 0],
+      [1, 1, 1],
       [2, 2, 2],
       [1, 2, 3],
     ],
